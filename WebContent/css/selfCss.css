@@ -1,0 +1,144 @@
+@CHARSET "UTF-8";
+body {background-image:url();
+	
+}
+	.login_div 
+	{
+	height:230px;
+	width:500px;
+	display:none;
+	border:solid 1px #c3c3c3;
+	positon:relative;
+	margin-left:325px;
+	margin-top:40px
+	}
+	ul{
+		list-style-type:none
+	}
+	span{
+		font-size:20px;
+		font-family: "微软雅黑";
+	}
+	
+	.whichfloor{
+		float:right;
+		
+	}
+	.textarea {
+		width:900px;
+		height:150px;
+		resize:none;
+		
+		margin: 0px;
+		font-size: 30px;
+	}
+	.submit{
+		position:relative;
+		left:160px;
+	}
+	.talk{
+		position: relative;
+  		top:0px;
+  		
+  		margin:5px 5px;
+		
+		
+	}
+	.page_head{
+			margin-left: auto;margin-right: auto;
+		 	width:900px;
+  			margin-top: 10px;
+	}
+	.recorder{
+		position:relative;
+		top:40px;
+		left:0px;
+		width:1000px;
+		 border: 1px solid #CCC;		
+	}
+	#container{
+		width:100%;		
+	}
+	#container_ul li{
+		border-bottom: 1px solid #CCC;
+		list-style-type:none
+	}
+	.container_ul{
+		border-bottom: 1px solid #CCC;
+		list-style-type:none
+	}
+	.mycontainer{
+		position:relative;
+		
+	}
+	.rerep{
+		position:relative;
+		left:40px;
+		width:520px;
+		
+		border-top: 1px solid #CCC  ;
+	}
+	
+	.re_context{
+		width:900px;
+		word-break:break-all;
+		font-size: 22px;
+		
+	}
+	.new_recorder{
+		border-bottom: 1px solid #CCC;
+		list-style-type:none;
+		display:none;
+		
+	}
+	.a_link{
+		position: relative;
+		left:90%;
+		font-size: 20px;	
+	}
+	.nochang_line{
+		display:inline-block;
+	}
+	.right_up{
+		float: right;
+		padding: 10px;
+		padding-right: 20px;
+	}
+	
+	.tail{
+		position: relative;
+		width:232px;
+		top:40px;
+		margin:auto;
+		
+	}
+	.head_cont{
+		width:100%;
+		height:290px;
+		/*background-color: black; */
+		position: relative;
+		top:0px;
+		padding:0px;
+		/*background-image:url("../pic/back2.jpg");*/
+	}
+	.daohang{
+		background-color:#70C8E3;
+		border-color:white;
+		font-family: "微软雅黑";
+		margin:0px;
+		
+	}
+	.announce{
+		background-color:#000;
+		width:100%;height:60px;
+		position:relative;top:20px;
+		border-radius:3px;
+		color:white;
+		font-family:微软雅黑;
+		font-size:25px;
+		line-height:60px;
+		/*半透明filter:alpha(opacity=58);-moz-opacity:0.58;-khtml-opacity:0.58;*/
+		z-index:2;opacity:0.8;
+		filter:alpha(opacity=65);opacity:.55;
+	}
+	
